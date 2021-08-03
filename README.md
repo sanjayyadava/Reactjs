@@ -2,8 +2,8 @@
  React JS All topics Cover in this index
 
 <ol>
-  <li><a href="" title="React Introduction">React Introduction</a></li>
-  <li><a href="" title="JavaScript before React">JavaScript before React</a>
+  <li><a href="javascript:;" title="React Introduction">React Introduction</a></li>
+  <li><a href="javascript:;" title="JavaScript before React">JavaScript before React</a>
     <ul>
       <li><a href="javascript:;" title="this keyword">this keyword</a></li>
       <li><a href="javascript:;" title="Modules">Modules</a></li>
